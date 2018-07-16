@@ -1,2 +1,5 @@
 /node_modules/
 npm-debug.log
+tortas-dev-firebase-adminsdk-prod.json
+tortas-dev-firebase-adminsdk-dev.json
+.env

@@ -4,6 +4,8 @@
   "description": "Node.js sample app for OpenShift 3",
   "main": "server.js",
   "dependencies": {
+    "dotenv": "^6.0.0",
+    "firebase-admin": "^5.12.1",
     "hapi": "16.0.1"
   },
   "engine": {
